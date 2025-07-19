@@ -1,49 +1,65 @@
 ## 👋 Hi there, I'm Rakshana Kannaya Muralidharan.  
 
 <p>
-🎓 Master's student in Cybersecurity @ RMIT University, Melbourne </br>
-🔐 Future Cloud Security Engineer | DevSecOps Enthusiast  </br>
-☁️ Building secure, automated, and scalable cloud environments
+🎓 Master's Student in Cybersecurity @ RMIT University, Melbourne  
+🔐 Aspiring Cloud Security Engineer | DevSecOps Enthusiast  
+☁️ Building secure, automated, and scalable cloud environments  
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm passionate about designing secure cloud systems, automating infrastructure, and exploring how cybersecurity principles apply in real-world environments.  
-Currently transitioning from academics to industry-ready hands-on skills in cloud security, system hardening, and threat defense.
+I’m Rakshana, a cybersecurity postgraduate student driven by a deep curiosity for cloud security and infrastructure automation. My passion lies in designing resilient, secure-by-default systems that scale, defend, and adapt.
+
+I’m currently transitioning from structured academics to industry-ready, hands-on cloud security skills — focusing on real-world threats, system hardening, and secure infrastructure deployment in cloud-native environments.
+
+---
+
+### 🧠 Core Interests
+
+- 🔐 Cloud Security & IAM
+- ☁️ Secure Infrastructure Deployment
+- 🛠️ DevSecOps & CI/CD Hardening
+- 🧪 Vulnerability Testing & Simulation
+- 📊 Security Monitoring & Observability
 
 ---
 
 ### 🛠️ Tech I’m Exploring
 
-- **Cloud & Virtualization:** OpenStack, AWS (Free Tier), VirtualBox
-- **Security Concepts:** IAM, Network Security, Zero Trust, Hardening
-- **Tools:** Wireshark, Nmap, Burp Suite, Fail2Ban, UFW, Scapy
-- **Languages & Scripting:** Bash, Python, YAML
-- **Tracking & Monitoring:** SigNoz, OpenTelemetry
+**Cloud & Virtualization:** OpenStack, AWS (Free Tier), VirtualBox  
+**Security Concepts:** IAM, Zero Trust, Network Segmentation, Least Privilege  
+**Tools:** Wireshark, Nmap, Burp Suite, Fail2Ban, Scapy, UFW  
+**Languages & Scripting:** Python, Bash, YAML  
+**Monitoring & Tracing:** SigNoz, OpenTelemetry
 
 ---
 
-### 🧪 Projects I’m Working On
-- `linux-hardening`: Automating basic Linux security tasks 🔐
-- `cloud-security-basics`: Documenting key cloud threats & best practices ☁️
-- `ctf-writeups`: Solving TryHackMe & HackTheBox beginner rooms 🧠
+### 🧪 Projects in Progress
+
+| Project Name | Description | Status |
+|--------------|-------------|--------|
+| `linux-hardening` | Automating system hardening tasks on Ubuntu | 🛠️ In Progress |
+| `cloud-security-basics` | Documenting cloud threat models & best practices | 📖 Ongoing |
+| `ctf-writeups` | Solving beginner TryHackMe & HTB rooms | 🧠 Learning |
 
 ---
 
-### 💡 What I'm Learning Now
-- Infrastructure as Code (IaC) with Terraform
-- Security use cases in cloud platforms
-- Automating secure VM provisioning
-- Real-world Red/Blue team strategies
+### 📚 Currently Learning
+
+- ☁️ Infrastructure as Code (Terraform)
+- 🔐 Secure VM Provisioning in OpenStack
+- 🛡️ Cloud-native security practices (GCP & AWS)
+- ⚔️ Red Teaming vs Blue Teaming Foundations
 
 ---
 
-### 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Resume](#) 
-- 📍 Melbourne, Australia | 🕒 Available for part-time roles & collaborations
+### 🤝 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 📍 Melbourne, Australia  
+- 💼 Open to part-time roles, collaboration projects & internship opportunities  
 
 ---
 
