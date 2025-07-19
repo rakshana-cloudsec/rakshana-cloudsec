@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Rakshana Kannaya Muralidharan.  
 
-<p align="center">
+<p>
 🎓 Master's student in Cybersecurity @ RMIT University, Melbourne </br>
 🔐 Future Cloud Security Engineer | DevSecOps Enthusiast  </br>
 ☁️ Building secure, automated, and scalable cloud environments
@@ -47,7 +47,7 @@ Currently transitioning from academics to industry-ready hands-on skills in clou
 
 ---
 
-<p align="center">
-✨ Committed to learning, building, and securing the digital world, one project at a time ✨
+<p>
+<i>✨ Committed to learning, building, and securing the digital world, one project at a time ✨ </i>
 </p>
 
