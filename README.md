@@ -28,11 +28,11 @@ I’m currently transitioning from structured academics to industry-ready, hands
 
 ### 🛠️ Tech I’m Exploring
 
-**Cloud & Virtualization:** OpenStack, AWS (Free Tier), VirtualBox  
-**Security Concepts:** IAM, Zero Trust, Network Segmentation, Least Privilege  
-**Tools:** Wireshark, Nmap, Burp Suite, Fail2Ban, Scapy, UFW  
-**Languages & Scripting:** Python, Bash, YAML  
-**Monitoring & Tracing:** SigNoz, OpenTelemetry
+- **Cloud & Virtualization:** OpenStack, AWS (Free Tier), VirtualBox  
+- **Security Concepts:** IAM, Zero Trust, Network Segmentation, Least Privilege  
+- **Tools:** Wireshark, Nmap, Burp Suite, Fail2Ban, Scapy, UFW  
+- **Languages & Scripting:** Python, Bash, YAML  
+- **Monitoring & Tracing:** SigNoz, OpenTelemetry
 
 ---
 
@@ -57,7 +57,7 @@ I’m currently transitioning from structured academics to industry-ready, hands
 
 ### 🤝 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- [LinkedIn] (https://www.linkedin.com/in/rakshana-muralidharan/)
 - 📍 Melbourne, Australia  
 - 💼 Open to part-time roles, collaboration projects & internship opportunities  
 
