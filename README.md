@@ -1,4 +1,4 @@
-## Hi there 👋 <h1 align="center">Hi, I'm Rakshana 👋</h1>
+## 👋 Hi there, I'm Rakshana Kannaya Muralidharan.  
 
 <p align="center">
 🎓 Master's student in Cybersecurity @ RMIT University, Melbourne  
